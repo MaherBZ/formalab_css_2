@@ -1,0 +1,24 @@
+.bloc1
+{
+height: 180px;
+width: 200%;
+background-color: #FF6600;
+}
+.bloc2
+{
+    height: 180px;
+    width: 100%;
+    background-color: #FFFFFF; 
+}
+.bloc3
+{
+    height: 180px;
+    width: 100%;
+    background-color: #4C4C4C
+}
+ .bloc2 p{
+ text-align: center;
+ font-size: 100px;
+ font-weight: bolder;
+ font-family: Comic sans MS, comic sans, cursive;
+}
